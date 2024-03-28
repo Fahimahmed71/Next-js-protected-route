@@ -42,7 +42,7 @@ Copy paste the code inside ProtectedRoute
 <br>
 <br>
 `return children;`
-
+<br>
 `};`
 
 `export default ProtectedRoute;`
